@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">User Account Test</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="incorrect_password_message">İstifadəçi adı və ya parol səhvdir</string>
+    <string name="empty_name_or_password_message">istifadəçi adı və ya parol boş ola bilməz</string>
+    <string name="succes_login_message">Giriş uğurla tamamlandı</string>
+    <string name="succes_register_message">Hesab uğurla yaradıldı. Giriş edin</string>"
+    <string name="loggedout_message">Hesabdan çıxış verildi</string>
+</resources>
